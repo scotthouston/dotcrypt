@@ -2,15 +2,21 @@
 
 <div align="center">
 
-![DotCrypt Logo](https://img.shields.io/badge/DotCrypt-v1.0-blue?style=for-the-badge&logo=python&logoColor=white/badge/Python-3.7+-yellow?style=for-the-badgeimg.shields.io/badge/License-MIT-green?style=/badge/Status-Active-success🚀 Advanced Text Encryption System**
+[![DotCrypt](https://img.shields.io/badge/DotCrypt-v1.0-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/yourusername/dotcrypt)
+[![Python](https://img.shields.io/badge/Python-3.7+-yellow?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com/yourusername/dotcrypt)
+
+**🚀 Advanced Text Encryption System**
 
 *Transform your messages into mysterious dot patterns with military-grade randomization*
 
-[Features](#-features) -  [Installation](#-installation) -  [Usage](#-usage) -  [Demo](#-demo) -  [Contributing](#-contributing)
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Demo](#-demo) • [Contributing](#-contributing)
 
-***
+---
 
 </div>
+
 
 ## 📖 Table of Contents
 
