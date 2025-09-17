@@ -1,0 +1,22 @@
+# Python generated files
+__pycache__/
+*.py[cod]
+*.so
+
+# DotCrypt key files (IMPORTANT!)
+bokachokabeho.ab
+*.ab
+
+# Windows junk
+Thumbs.db
+desktop.ini
+
+# Mac junk  
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
