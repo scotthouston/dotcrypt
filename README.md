@@ -235,7 +235,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/dotcrypt&type.com/#yourusername/dotcrypt&
+[![Star History Chart](https://api.star-history.com/svg?repos=anugrhaswi/dotcrypt&type.com/#anugrhaswi/dotcrypt&
 
 **Built with ❤️ and Python**
 
